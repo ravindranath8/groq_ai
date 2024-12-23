@@ -1,0 +1,12 @@
+Human,AI
+machine learnig,"It seems like you're interested in machine learning! Machine learning is a subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
+
+There are mainly three types of machine learning: supervised learning, unsupervised learning, and reinforcement learning. 
+
+1. Supervised Learning: This is the most common technique. It involves a target/outcome variable (or dependent variable) which is to be predicted from a given set of predictors (independent variables). The system is trained on a pre-defined set of examples, which then facilitate its ability to reach an accurate conclusion when given new data.
+
+2. Unsupervised Learning: In this method, there is no target or outcome variable to predict or estimate. It is used for clustering population in different groups, which is widely used for segmenting customers in different groups for specific intervention.
+
+3. Reinforcement Learning: Using this algorithm, the machine is trained to make specific decisions. It works this way: the machine is exposed to an environment where it trains itself continually using trial and error.
+
+Would you like to know more about a specific type of machine learning, or perhaps something else related to this topic?"
