@@ -7,4 +7,4 @@ langchain
 langchain-community 
 langchain-community==0.3.13
 
-GROQ_API_KEY=="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"
+
